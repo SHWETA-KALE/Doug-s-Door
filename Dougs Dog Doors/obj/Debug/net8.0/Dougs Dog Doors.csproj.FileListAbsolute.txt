@@ -1,0 +1,14 @@
+D:\Assignments\Dougs Dog Doors\Dougs Dog Doors\bin\Debug\net8.0\Dougs Dog Doors.exe
+D:\Assignments\Dougs Dog Doors\Dougs Dog Doors\bin\Debug\net8.0\Dougs Dog Doors.deps.json
+D:\Assignments\Dougs Dog Doors\Dougs Dog Doors\bin\Debug\net8.0\Dougs Dog Doors.runtimeconfig.json
+D:\Assignments\Dougs Dog Doors\Dougs Dog Doors\bin\Debug\net8.0\Dougs Dog Doors.dll
+D:\Assignments\Dougs Dog Doors\Dougs Dog Doors\bin\Debug\net8.0\Dougs Dog Doors.pdb
+D:\Assignments\Dougs Dog Doors\Dougs Dog Doors\obj\Debug\net8.0\Dougs Dog Doors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\Dougs Dog Doors\Dougs Dog Doors\obj\Debug\net8.0\Dougs Dog Doors.AssemblyInfoInputs.cache
+D:\Assignments\Dougs Dog Doors\Dougs Dog Doors\obj\Debug\net8.0\Dougs Dog Doors.AssemblyInfo.cs
+D:\Assignments\Dougs Dog Doors\Dougs Dog Doors\obj\Debug\net8.0\Dougs Dog Doors.csproj.CoreCompileInputs.cache
+D:\Assignments\Dougs Dog Doors\Dougs Dog Doors\obj\Debug\net8.0\Dougs Dog Doors.dll
+D:\Assignments\Dougs Dog Doors\Dougs Dog Doors\obj\Debug\net8.0\refint\Dougs Dog Doors.dll
+D:\Assignments\Dougs Dog Doors\Dougs Dog Doors\obj\Debug\net8.0\Dougs Dog Doors.pdb
+D:\Assignments\Dougs Dog Doors\Dougs Dog Doors\obj\Debug\net8.0\Dougs Dog Doors.genruntimeconfig.cache
+D:\Assignments\Dougs Dog Doors\Dougs Dog Doors\obj\Debug\net8.0\ref\Dougs Dog Doors.dll
