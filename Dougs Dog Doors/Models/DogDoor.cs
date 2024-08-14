@@ -17,13 +17,13 @@ namespace Dougs_Dog_Doors.Models
 
         public void Open()
         {
-            Console.WriteLine("Door is open");
+            Console.WriteLine("The dog door opens");
             open = true;
         }
 
         public void Close()
         {
-            Console.WriteLine("Door is close");
+            Console.WriteLine("The dog door closes");
             open = false;
         }
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dougs Dog Doors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e4ce0e3f6b1fc1eedbc533527a36678ded8faed")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dougs Dog Doors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dougs Dog Doors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
